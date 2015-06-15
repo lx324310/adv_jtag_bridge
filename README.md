@@ -23,7 +23,7 @@ This is only the software of adv_jtag_bridge,the hardware of adv_jtag_bridge has
 
   $make 
   
-  $make install
+  $sudo make install
   
 #adv_jtag_bridge use
 
